@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SeminarManagementSystem</string>
+    <string name="app_logo">Logo</string>
+    <string name="password">Password</string>
+    <string name="signup_enter">Enter credential to create new Admin</string>
+    <string name="add_admin">Add Admin</string>
+    <string name="create_admin">Add</string>
+    <string name="name">Username</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="search">Search</string>
+    <string name="amu">Aligarh Muslim University</string>
+    <string name="login_message">Enter credential to continue as admin</string>
+    <string name="back">Back</string>
+    <string name="Issue">Issued Books</string>
+    <string name="add_books">Add Book</string>
+</resources>
